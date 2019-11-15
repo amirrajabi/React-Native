@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 76012,
+  "expoServerNgrokUrl": "https://ab-jpa.amirrajabi.qmehr.exp.direct",
+  "packagerNgrokUrl": "https://packager.ab-jpa.amirrajabi.qmehr.exp.direct",
+  "ngrokPid": 76022,
+  "webpackServerPort": null
+}
